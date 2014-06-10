@@ -26,6 +26,12 @@ Jekyll and Github pages combination seems to have given the solution that is the
 The github gave me a comfort that my assets(code,docs etc) are always with me.
 The jekyll has both the local service to finetune the style and structure and github pages to host and publish
 
+Another post on the same topic:
+
+<http://vitobotta.com/migrating-from-wordpress-to-jekyll-part-one-why-I-gave-up-on-wordpress>
+
+
+
 ## How to ..
 
 #### Setup Jekyll
