@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “What’s in the name?”
+title: What’s in the name?
 date: 2012-08-09
 categories: life
 ---
