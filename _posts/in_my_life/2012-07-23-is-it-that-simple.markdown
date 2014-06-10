@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Writing resume.is it that simple ?
+title: Writing resume...is it that simple ?
 date: 2012-07-23
 categories: life
 ---
