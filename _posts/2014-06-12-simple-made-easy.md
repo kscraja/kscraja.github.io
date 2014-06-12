@@ -232,6 +232,7 @@ categories: tech talks
 * simplicity often means making more things, not fewer
 
 ## Talk - URL
+* Rich Hickey - Author of Clojure 
 * <http://www.infoq.com/presentations/Simple-Made-Easy>
 
 ## Simplicity is the ultimate sophistication - Leonardo Da Vinci 
