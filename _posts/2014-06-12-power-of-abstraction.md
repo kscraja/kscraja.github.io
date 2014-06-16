@@ -1,5 +1,5 @@
 ---
-title: The Power of Abstract - my retake
+title: The Power of Abstraction - my take
 date: 2104-06-12
 layout: post
 categories: tech talks
