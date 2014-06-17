@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2014-06-12
-title: Simple Made Easy - my retake
+title: Simple Made Easy - retake
 categories: tech talks
 --- 
 
