@@ -30,3 +30,16 @@ Then begin the upgrade process
 
 * Ctrl + Alt + F1....F7
     - F7 - desktop
+
+## Hibernating, Suspend system
+
+* sudo pm-suspend
+* sudo pm-hibernate
+
+## Details for processor
+
+* cat /proc/cpuinfo 
+
+## Battery Charge details
+
+* acpi

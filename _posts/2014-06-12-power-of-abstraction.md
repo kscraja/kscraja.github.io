@@ -1,6 +1,6 @@
 ---
 title: The Power of Abstraction - my take
-date: 2104-06-12
+date: 2014-06-12
 layout: post
 categories: tech talks
 ---
