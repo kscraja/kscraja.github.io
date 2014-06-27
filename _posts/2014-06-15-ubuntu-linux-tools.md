@@ -43,3 +43,12 @@ Then begin the upgrade process
 ## Battery Charge details
 
 * acpi
+
+## Listing all attached drives
+
+* sudo fdisk -l
+
+## Making bootable usb stick
+
+* <http://superuser.com/questions/591234/creating-a-bootable-usb-from-command-line-on-linux>
+* <http://askubuntu.com/questions/372607/how-to-create-a-bootable-ubuntu-usb-flash-drive-from-terminal>
