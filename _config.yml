@@ -3,11 +3,10 @@ title: Watering the plant ..
 description: Blog Chandra Koduru
 tagline: one post at a time.
 baseurl: ""
-url: http://kscraja.github.io
 
 author:    Chandra Koduru
 name:    Chandra Koduru
-url:     http://in.linkedin.com/in/kscraja
+url:     http://chandrakoduru.in
 email:   kscraja@gmail.com
 
 # Build settings
