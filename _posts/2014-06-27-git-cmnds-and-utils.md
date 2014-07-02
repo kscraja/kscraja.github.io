@@ -35,3 +35,7 @@ categories: tech
     * ~*
 
 
+## git push & fetch
+
+* A good article explaining git and also fetch and pull
+* <http://longair.net/blog/2009/04/16/git-fetch-and-merge/>
