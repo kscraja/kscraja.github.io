@@ -39,3 +39,7 @@ categories: tech
 
 * A good article explaining git and also fetch and pull
 * <http://longair.net/blog/2009/04/16/git-fetch-and-merge/>
+
+## Tracking Branches and remote tracking branches
+
+* <http://www.gitguys.com/topics/tracking-branches-and-remote-tracking-branches/>
