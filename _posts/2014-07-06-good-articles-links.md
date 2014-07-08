@@ -1,10 +1,10 @@
 ---
 layout: post
 date: 2014-07-06
-title: Good Articles - Links
+title: Good Articles and Videos - Links
 ---
 
-## A collections of links worth re-reading
+## A collections of worthy links
 
 ### Computer Science
 
@@ -14,3 +14,8 @@ title: Good Articles - Links
 ### General
 
 * Better Explained <http://betterexplained.com>
+
+## Videos
+
+* How to build virtual machines <https://www.youtube.com/watch?v=OjaAToVkoTw&feature=youtu.be>
+
