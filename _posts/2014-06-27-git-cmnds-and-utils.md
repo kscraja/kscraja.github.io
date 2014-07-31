@@ -7,7 +7,11 @@ categories: tech
 
 ## Hosting a git repo
 
+* cd to the folder __containing__ the repository
 * `git daemon --base-path=. --export-all --reuseaddr --informative-errors --verbose`
+* `git clone git://<ip.ip.ip.ip>/<reponame>`
+
+* Taming the git daemon <http://railsware.com/blog/2013/09/19/taming-the-git-daemon-to-quickly-share-git-repository/>
 
 ## Adding a remote
 
