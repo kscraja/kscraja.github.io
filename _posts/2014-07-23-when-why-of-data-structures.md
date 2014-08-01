@@ -46,6 +46,7 @@ Each of the data structure support certain kind of features/promises.
 ### What is an algorithm in the context of data-structures.
 
 Algorithm is an approach to solve a particular kinds of problems.
+
 * Sorting
     * Merge sort, quick sort, selection sort, insertion sort, count sort, heap sort etc.
 * Searching

@@ -24,8 +24,8 @@ category: tech
 ## What makes program faster(perceived) ?
 
 * Obviously - Hardware (exeucting instructions, pipelining etc)
-* The compiler - Generating most appropriate ‘instruction set’, based on instruction set.
-* The compiler - Generating most minimal code, using code optimization
+* The compiler - Selecting most appropriate ‘instruction’, based on available instruction set, for a given operation/statement.
+* The compiler - Generating most minimal code, using code optimization methods.
 * The program code - algorithms etc
 
 ## Definitions
@@ -82,22 +82,23 @@ category: tech
     * memory
 
 ## Data Transfer
-    * immediate -> register, memory
-    * register -> register, memory
-    * memory -> register
+   * immediate -> register, memory
+   * register -> register, memory
+   * memory -> register
+
 ## Memory addressing modes
 
-    * Indirect (%ebx). The address is in register
-    * Indirect + offset
+* Indirect (%ebx). The address is in register
+* Indirect + offset
 
 ## movx Src,Dest -> move x bytes from Src, Dest
 
     X can take following shapes
 
-    * b -> byte
-    * w -> 2 bytes
-    * l -> 4 bytes
-    * q -> 8 bytes (quad word, 4 words)
+* b -> byte
+* w -> 2 bytes
+* l -> 4 bytes
+* q -> 8 bytes (quad word, 4 words)
 
 ## Registers in IA32 and x86-64
 
