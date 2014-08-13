@@ -203,3 +203,32 @@ category: tech
 * Literals (fixed data)
 * program text - instructions live at bottom starting at address 0x00000000
 
+## Exceptions - Control flow
+
+* jump, call, ret - with in a single process
+
+* An exception is a transfer of control to the operating
+system in response to some event (change in processor state)
+
+* Synchronous 
+    - Traps
+        - intetional 
+        - system calls, break points
+    - Faults
+        - unintentional, but recoverable
+        - page fault
+        - divide by zero
+    - Aborts
+        - unintentional and unrecoverable
+        - parity error, machine check
+        - Aborts the current program
+
+* Asynchronous - interrupts
+    - indicated by setting process pin
+    - network packet
+    - disk read completion
+
+
+* Trap - Example
+    * open(filename, options)
+    * INT 0x80
