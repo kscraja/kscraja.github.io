@@ -47,3 +47,8 @@ categories: tech
 ## Tracking Branches and remote tracking branches
 
 * <http://www.gitguys.com/topics/tracking-branches-and-remote-tracking-branches/>
+
+## Compiling and Installing Git on the Ubuntu
+
+* make prefix=/usr/local
+* sudo make install prefix=/usr/local

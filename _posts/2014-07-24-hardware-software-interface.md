@@ -232,3 +232,30 @@ system in response to some event (change in processor state)
 * Trap - Example
     * open(filename, options)
     * INT 0x80
+
+## Process
+
+* Two key Two key abstractions
+    * Logical control flow - by interleaving processes
+    * private virtual address space - virtual memory
+
+* Processes are managed by a shared chunk of OS code called kernel
+    * The kernel is not a separate process, but rather runs as part of user process.
+* fork() - identical copy - state, file_descriptors, call stack etc
+* pid = fork() :: pid == 0 for child, pid= child_pid for parent
+
+* Fork-Exece
+    * overwrites code, data and stack
+    * keeps pid, open files and few other items
+
+## Dynamic Memory Allocation
+* For data structures whose size is only known at runtime
+* use malloc
+
+* Allocator maintains heap as collection of variable size blocks, which are either allocated or free.
+
+* Types of allocators
+    * Explicity allocator - application allocates and frees.  malloc, free
+    * Implicit allocator - application allocates, but does not free spaces. Garbage collection in Java, ML and Lisp
+
+
