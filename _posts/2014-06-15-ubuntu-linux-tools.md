@@ -87,3 +87,4 @@ Then begin the upgrade process
 * ls -l | tee file.txt => prints to stdout and also to file.txt
 * wc => word count
 * less, head, tail
+* du -sh * | sort -n (for list directories and their sizes in human readable format)
