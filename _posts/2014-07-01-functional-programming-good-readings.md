@@ -19,3 +19,7 @@ categories: tech
 ## Tutorial and About Monads
 
 * http://mvanier.livejournal.com/
+
+## Haskell course by Philip Wadler
+
+* https://www.youtube.com/watch?v=AOl2y5uW0mA&list=PLtRG9GLtNcHBv4cuh2w1cz5VsgY6adoc3&index=1
