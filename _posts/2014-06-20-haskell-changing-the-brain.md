@@ -5,6 +5,11 @@ layout: post
 categories: tech talk
 ---
 
+## Haskell Resources
+
+* Philip Wadler course in University of Edinburgh
+    - https://www.youtube.com/playlist?list=PLtRG9GLtNcHBv4cuh2w1cz5VsgY6adoc3
+
 ## Original Talk
 * <http://vimeo.com/96639840>
 
