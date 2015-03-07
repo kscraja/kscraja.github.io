@@ -63,4 +63,6 @@ But given the other offerings, I am willing to learn jekyll systems to prime it 
 * Commit and push it to github 
 * Done..it is available to world !!
 
+## Upgrading Jekyll on local system
 
+* gem install github-pages
